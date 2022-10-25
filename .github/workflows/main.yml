@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: usarral/GITHUB_ACTION_DEMO
+        uses: usarral/usarral_action_try
 
         with:
           who-to-greet: 'Mona the Octocat'
